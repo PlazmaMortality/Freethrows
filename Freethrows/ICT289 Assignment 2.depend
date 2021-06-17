@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591937030 source:c:\users\vladislav kennebury\desktop\ict289 assignment 2\main.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
